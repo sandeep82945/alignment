@@ -1,0 +1,32 @@
+Please act as an impartial judge and evaluate only the Consistency of the responses provided by two AI assistants. You will be given two summary written for a news article.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Consistency - the factual alignment between the summary and the summarized source. A factually consistent summary contains only statements that are entailed by the source document. Annotators were also asked to penalize summaries that contained hallucinated facts. 
+
+Evaluation Steps:
+
+1. Read the news article carefully and identify the main topic and key points.
+2. Read the summary and compare it to the news article. Check if the summary covers the main topic and key points of the news article, and if it presents them in a clear and logical order.
+3. Do not favor certain names of the assistants. Avoid any position biases and ensure that the order in which the responses were presented does not influence your decision.
+4. Do not allow the length of the responses to influence your evaluation. Do not favor certain names of the assistants. Be as objective as possible. 
+5. Begin your evaluation by comparing the two responses and provide a short explanation. After providing your explanation, output your final verdict by strictly following this format. : \"[[A]]\" if assistant A is better, \"[[B]]\" if assistant B is better, and \"[[C]]\" for a tie."
+
+Source: 
+
+{{Document}}
+
+
+Summary A:
+
+{{Summary1}}
+
+Summary B:
+
+{{Summary2}}
+
+Reference:
+
+{Reference}

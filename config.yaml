@@ -1,0 +1,5 @@
+Prompt_dir:
+  con: ../prompts/summeval_pair/con_detailed.txt
+  coh: ../prompts/summeval_pair/coh_detailed.txt
+  rel: ../prompts/summeval_pair/rel_detailed.txt
+  flu: ../prompts/summeval_pair/flu_detailed.txt
