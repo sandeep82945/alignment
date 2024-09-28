@@ -11,7 +11,6 @@ from trl import SFTTrainer
 
 # from huggingface_hub import notebook_login
 # notebook_login()
-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
 
 # Monitering the LLM
 wandb.login(key = '7b2d15046503e9d6859850a5cc804c0f9efedddd')
